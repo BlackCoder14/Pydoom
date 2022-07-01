@@ -18,4 +18,4 @@ Démarrez votre Terminal / Invite de Commande et tapez la commande `git clone ht
 - Autres : Rendez-vous sur le Discord (SOON)
 
 # Pydoom en
-2D video game in Python
+Comming Soon
